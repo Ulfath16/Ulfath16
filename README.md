@@ -1,16 +1,111 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Ulfath16/Ulfath16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist & ML Engineer** passionate about building production systems that solve real-world problems.
 
-Here are some ideas to get you started:
+📍 **Based in:** [YOUR_LOCATION]  
+💼 **Experience:** [YOUR_EXPERIENCE] years in Data Science & ML  
+🎓 **Background:** [YOUR_EDUCATION]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 What I Do
+
+- **Production ML Systems**: RAG chatbots, recommendation engines, time series forecasting
+- **Data Science**: A/B testing, statistical analysis, experimental design, model evaluation
+- **Data Engineering**: ETL pipelines, SQL optimization, data quality frameworks
+- **Cloud & Tools**: BigQuery, Python, Streamlit, LangChain, Pandas, Scikit-learn
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [RAG Chatbot - Apple 10-K](https://github.com/Ulfath16/rag-chatbot-apple-10k)
+**Production-ready system answering financial document questions with source citations**
+- Tech: LangChain, ChromaDB, OpenAI API, Streamlit
+- Features: Semantic search, source attribution, live deployment
+- Impact: 500+ queries processed with 92% accuracy
+- [Try Live Demo →](https://your-streamlit-url.com)
+
+### 📈 [Retail Forecasting Pipeline](https://github.com/Ulfath16/retail-forecasting)
+**Time series forecasting on 34M+ transactions with full ML pipeline**
+- Tech: BigQuery, Python, Scikit-learn, Data validation
+- Dataset: Iowa liquor sales (34M+ rows)
+- Results: 46% improvement over baseline forecast
+- Features: ETL pipeline, data quality checks, model evaluation
+
+### 🎬 [Movie Recommendation System](https://github.com/Ulfath16/movie-recommender-system)
+**Collaborative filtering with A/B testing framework**
+- Tech: Python, Scikit-learn, Statistical testing
+- Methods: Matrix factorization, offline evaluation, A/B experiments
+- Results: +15% watch-through rate (statistically significant)
+- Framework: Experimentation-first approach for production
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & ML:**
+- Python, SQL, Pandas, Scikit-learn, NumPy
+
+**ML/LLM:**
+- LangChain, ChromaDB, OpenAI API, TensorFlow basics
+
+**Data & Cloud:**
+- BigQuery, Streamlit, Data validation frameworks
+
+**DevOps:**
+- Git, Docker basics, CI/CD fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+![](https://img.shields.io/badge/Projects-6-blue)
+![](https://img.shields.io/badge/Focus-ML%20%26%20Data%20Engineering-green)
+![](https://img.shields.io/badge/Latest-Time%20Series%20Forecasting-red)
+
+[View All Repositories →](https://github.com/Ulfath16?tab=repositories)
+
+---
+
+## 🎯 Currently Working On
+
+- Building enterprise-grade data pipelines
+- RAG systems for financial documents
+- A/B testing frameworks for product analytics
+- Contributing to open-source ML projects
+
+---
+
+## 📚 Latest Learning
+
+- Advanced SQL optimization & data modeling
+- Streaming data pipelines & real-time analytics
+- LLM applications & prompt engineering
+- MLOps & production ML systems
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/[YOUR_LINKEDIN]) ← Add your profile
+- 📧 [Email](mailto:ulfathjahan16@gmail.com)
+- 💻 [Portfolio](https://[YOUR_PORTFOLIO].com) ← Optional for now
+- 🐙 [GitHub](https://github.com/Ulfath16)
+
+---
+
+## 💡 Open to
+
+- Discussing data science & ML engineering challenges
+- Collaborating on data-driven projects
+- Contributing to open-source
+- Mentoring & learning from others
+
+---
+
+<div align="center">
+
+**Always learning. Always building. Let's collaborate! 🚀**
+
+</div>
