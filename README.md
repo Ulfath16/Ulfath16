@@ -24,7 +24,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building production syst
 - Tech: LangChain, ChromaDB, OpenAI API, Streamlit
 - Features: Semantic search, source attribution, live deployment
 - Impact: 500+ queries processed with 92% accuracy
-- [Try Live Demo →][(https://your-streamlit-url.com)](https://rag-chatbot-apple-10k-ttruuvpx8hulg2vntgknkh.streamlit.app)
+- [Try Live Demo →](https://rag-chatbot-apple-10k-ttruuvpx8hulg2vntgknkh.streamlit.app/)
 
 ### 📈 [Retail Forecasting Pipeline](https://github.com/Ulfath16/retail-forecasting)
 **Time series forecasting on 34M+ transactions with full ML pipeline**
@@ -59,6 +59,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building production syst
 ---
 
 ## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ulfath16&show_icons=true&theme=dark)](https://github.com/Ulfath16)
 
 ![](https://img.shields.io/badge/Projects-6-blue)
 ![](https://img.shields.io/badge/Focus-ML%20%26%20Data%20Engineering-green)
@@ -88,7 +89,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building production syst
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn][(https://linkedin.com/in/[YOUR_LINKEDIN])](https://www.linkedin.com/in/ulfath-jahan-22b468205/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ulfath-jahan-22b468205/)
 - 📧 [Email](mailto:ulfathjahan16@gmail.com)
 - 💻 [Portfolio](https://[YOUR_PORTFOLIO].com) 
 - 🐙 [GitHub](https://github.com/Ulfath16)
