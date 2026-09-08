@@ -88,9 +88,9 @@ I'm a **Data Scientist & ML Engineer** passionate about building production syst
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/[YOUR_LINKEDIN]) ← Add your profile
+- 💼 [LinkedIn][(https://linkedin.com/in/[YOUR_LINKEDIN])](https://www.linkedin.com/in/ulfath-jahan-22b468205/)
 - 📧 [Email](mailto:ulfathjahan16@gmail.com)
-- 💻 [Portfolio](https://[YOUR_PORTFOLIO].com) ← Optional for now
+- 💻 [Portfolio](https://[YOUR_PORTFOLIO].com) 
 - 🐙 [GitHub](https://github.com/Ulfath16)
 
 ---
