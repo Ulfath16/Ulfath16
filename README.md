@@ -2,9 +2,9 @@
 
 I'm a **Data Scientist & ML Engineer** passionate about building production systems that solve real-world problems.
 
-📍 **Based in:** [YOUR_LOCATION]  
-💼 **Experience:** [YOUR_EXPERIENCE] years in Data Science & ML  
-🎓 **Background:** [YOUR_EDUCATION]
+📍 **Based in:** Bengaluru  
+💼 **Experience:** 2 years in Data Science & ML  
+🎓 **Background:** Masters In Data Science, Monash University, Australia 
 
 ---
 
