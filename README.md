@@ -24,7 +24,7 @@ I'm a **Data Scientist & ML Engineer** passionate about building production syst
 - Tech: LangChain, ChromaDB, OpenAI API, Streamlit
 - Features: Semantic search, source attribution, live deployment
 - Impact: 500+ queries processed with 92% accuracy
-- [Try Live Demo →](https://your-streamlit-url.com)
+- [Try Live Demo →][(https://your-streamlit-url.com)](https://rag-chatbot-apple-10k-ttruuvpx8hulg2vntgknkh.streamlit.app)
 
 ### 📈 [Retail Forecasting Pipeline](https://github.com/Ulfath16/retail-forecasting)
 **Time series forecasting on 34M+ transactions with full ML pipeline**
