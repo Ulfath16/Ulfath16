@@ -63,6 +63,8 @@ Git, Docker basics, CI/CD fundamentals
 
 ##  GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ulfath16&show_icons=true&theme=github_dark)
+
 [View All Repositories →](https://github.com/Ulfath16?tab=repositories)
 
 ---
